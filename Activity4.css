@@ -1,0 +1,28 @@
+body{
+	border-style: solid;
+	border-color: #47b594;
+	border-width: 10px;
+}
+.div1{
+	background-color: #42f5b3;
+	padding: 5px 5px 5px;
+	margin: auto;
+}
+.div2{
+	background-color: #42f5c8;
+	padding: 10px 10px 10px;
+	margin:  auto;
+}
+h2{
+	font-family: monospace;
+	color: #123E1F;
+	text-shadow: whitesmoke;
+}
+img{
+	border-style: inset;
+	border-color: #47b594;
+	border-width: 3px;
+}
+small{
+	background-color: #42f5b3;
+}
